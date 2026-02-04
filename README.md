@@ -1,0 +1,1 @@
+systeme de gestion d'un cabinet medicale assurant la prise des rendez-vous et des consultations selon le besoin ** bases de donnees nommee hopital.sql ** -copier la dans votre sgbd au choix et importer toutes les tables -ensuite teste la. nb: elle est libre d'utilisation !!
